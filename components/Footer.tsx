@@ -62,7 +62,7 @@ const Footer: React.FC = () => {
           <p className="text-sm text-gray-500">&copy; 2025 ModernShop owned @ pradhap. All rights reserved.</p>
           <div className="mt-4 sm:mt-0 flex space-x-6">
             <a href="#" className="text-sm text-gray-500 hover:text-gray-900">Privacy Policy</a>
-            <a href="#" className="text-sm text-gray-500 hover:text-gray-900">Terms of Service</a>
+            <a href="#" className="text-sm text-gray-500 hover:text-gray-900">Terms of Services</a>
           </div>
         </div>
       </div>
